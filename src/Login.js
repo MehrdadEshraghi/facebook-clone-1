@@ -28,7 +28,7 @@ function Login() {
                 <img src="https://www.logo.wine/a/logo/Facebook/Facebook-Logo.wine.svg" alt="" />
 
                 <Button type="submit" onClick={signIn}>
-                    Sign In With Google
+                    Sign In With Facebook
                 </Button>
             </div>
         </div>
